@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student at Aston university, Birmingham. Currently I am working on a team project which is about an E-Commerce Platform. It is a year-long team project for the CS2TP module at Aston University.<br>💻 I’m looking for a placement next year in software engineering or web development in UK.<br>
+🔭 I’m a student at Aston university, Birmingham. Currently I am studying in final year, and also looking for graduate opportunities after my degree.<br>
 
 
 ## 🌐 Socials:
