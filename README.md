@@ -28,3 +28,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
 </div>
+- Final year computer science student at Aston University, Birmingham.
+- Looking for graduate software and web development related roles.
+- Familiar with Typescript/Javascript, Nextjs, Expressjs, Laravel, Java, Python.
