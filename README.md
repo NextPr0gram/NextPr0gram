@@ -2,7 +2,7 @@
 ```text
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Final year computer science student at Aston University, Birmingham.
+├─▣ 2025 Computer science graduate at Aston University, Birmingham.
 ├─▣ Looking for graduate software and web development related roles.
 ├─▣ Familiar with Typescript/Javascript, Nextjs, Expressjs, Laravel, Java, Python.
 ├─▣ Fan on linux (Arch BTW), love reading about tech, calisthenics, anime and food.
